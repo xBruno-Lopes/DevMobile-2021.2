@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Trabalho Componentes Basicos</string>
+    <string name="toggle_turn_on">Botão Ligado</string>
+    <string name="toggle_turn_off">Botão Desligado</string>
+    <string name="btn_display">Display</string>
+
+    <string name="radio_male">Masculino</string>
+    <string name="radio_female">Feminino</string>
+
+    <string name="country_prompt">Choose a country</string>
+    <string name="file">menu</string>
+    <string name="open">abrir</string>
+    <string name="create_new">criar novo</string>
+    <string name="new_game">Novo Jogo</string>
+    <string name="help">Ajuda</string>
+    <string name="mostrar_popup">Mostrar Popup</string>
+    <string name="mostrar_popup2">Mostrar Popup 2</string>
+    <string name="me_pressione">Me pressione!!!</string>
+    <string name="ir_para_segunda_activity">Ir para segunda Activity</string>
+    <string name="bem_vindo_a_nova_activity">Bem vindo a nova activity</string>
+    <string name="voltar_para_primeira_activity">Voltar para Primeira Activity</string>
+
+    <string-array name="country_arrays">
+        <item>Malaysia</item>
+        <item>United States</item>
+        <item>Indonesia</item>
+        <item>France</item>
+        <item>Italy</item>
+        <item>Singapore</item>
+        <item>New Zealand</item>
+        <item>India</item>
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="FirstFragment">First Fragment</string>
+    <string name="SecondFragment">Second Fragment</string>
+    <string name="ThirdFragment">Third Fragment</string>
+    <string name="para_terceira_activity">Para Terceira Activity</string>
+
+</resources>
